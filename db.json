@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Name": "vikrant thakur",
+      "Mobile": "788784574",
+      "Email": "thakarevikrant0@gmail.com"
+    },
+    {
+      "Name": "vicky thakare",
+      "Mobile": "8858585414",
+      "Email": "tharevktt0@gmail.com",
+      "id": 2
+    },
+    {
+      "Name": "Gaurav Wanaskar",
+      "Mobile": "7875456923",
+      "Email": "gauravwanaskar3@gmail.com",
+      "id": 3
+    },
+    {
+      "Name": "",
+      "Mobile": "",
+      "Email": "",
+      "id": 4
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+      "id": 1,
+      "Name": "vikrant thakare",
+      "email" : "thakarevikrant0@gmail.com",
+      "mobile" : 9898788545
+    },
+    {
+      "Name": "harry anderson",
+      "email": "anderson@harrry.com",
+      "mobile": "7778759598",
+      "id": 6
+    },
+    {
+      "Name": "tom cruise",
+      "email": "tomcruise@0.com",
+      "mobile": "9885895985",
+      "id": 7
+    },
+    {
+      "Name": "vkt vicky",
+      "email": "vicky@gmail.com",
+      "mobile": "8585858585",
+      "id": 8
+    }
+    
+]
