@@ -5,6 +5,7 @@ import Form from 'react-bootstrap/Form';
 // import signup from './Props/signup.jpg'
 import ackologopng from './Props/ackologopng.png'
 import { Link } from "react-router-dom";
+
 // import axios from "axios";
 
 // axios.post('http://localhost:3000/posts', {
@@ -106,6 +107,11 @@ function Userinterface() {
                ACKO policy</h3></div>  
                </div>
     {/* <img src={signup} alt="" srcSet=""  className="sideicon"/> */}
+
+
+
+
+ 
   </div>
      </>
    

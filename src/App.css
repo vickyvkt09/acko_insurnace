@@ -51,6 +51,16 @@
   margin-top: 5%
   
 }
+.formsize2{
+  margin-left: 17%;
+  position: relative;
+  bottom: 30px;
+  margin-top: 3%;
+}
+.textotp{
+     margin-top: 15%;
+    margin-right: 55%;
+}
 
 .logo{
   width: 120px;
@@ -58,7 +68,10 @@
   top: 60px;
   right: 35%
 }
-
+.otpimage{
+  margin-right: 58%;
+    width: 70px;
+}
 .sideicon{
   position: absolute;
   top: 50%;

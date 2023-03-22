@@ -46,9 +46,9 @@ function LoginPage() {
           </Form.Control.Feedback>
       </Form.Group>
 
-      <Button className="col-12" variant="success" type="submit">
+     <Link to='/OtpPage'> <Button className="col-12" variant="success" type="submit">
        Log in
-      </Button>
+      </Button></Link>
     <h6 className="mt-2">Can't Access ?   <Link to='*' className="loginbtn">Recover my Account</Link></h6>
     </Form>
    </div>
