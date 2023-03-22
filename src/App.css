@@ -52,14 +52,20 @@
   
 }
 .formsize2{
-  margin-left: 17%;
+  margin-left: 12%;
   position: relative;
   bottom: 30px;
   margin-top: 3%;
 }
+.formsize3{
+      margin-right: 59%;
+    position: relative;
+    bottom: 29px;
+    margin-top: 2%;
+}
 .textotp{
-     margin-top: 15%;
-    margin-right: 55%;
+     /* margin-top: 15%; */
+    margin-right: 58%
 }
 
 .logo{
@@ -69,8 +75,10 @@
   right: 35%
 }
 .otpimage{
-  margin-right: 58%;
-    width: 70px;
+  margin-top: 12%;
+    position: relative;
+    right: 29%;
+    top: 48%;
 }
 .sideicon{
   position: absolute;
@@ -106,6 +114,10 @@
   height: 100%
   
 }
+
+
+
+
 
 
 .iflex {

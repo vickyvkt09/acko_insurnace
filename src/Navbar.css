@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+  }
+  .header{
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    position: relative;
+    padding: 20px 0px;
+    z-index: 5;
+    background: rgb(89, 32, 197);
+  }
+  
+  .navExpand{
+    width: 100%;
+    margin-left: 25%;
+      display: flex;
+      box-sizing: border-box;
+      -webkit-box-align: center;
+      align-items: center;
+  }
+  
+  .me-auto{
+    width: 100%;
+    display: flex;
+    box-sizing: border-box;
+    margin: 0px 0px 0px 50px;
+   
+  }
+  
+  .navlink, #navlink{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    margin: 0px 40px 0px 0px;
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    border: none;
+    text-decoration: none;
+    display: flex;
+    z-index: 2;
+    cursor: pointer;
+    padding: 8px 0px;
+  }
+  
+  .navButtons{
+    display: flex;
+    margin-left: 80%;
+    width: 100%;
+    box-sizing: border-box;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    -webkit-box-align: center;
+    align-items: center;
+  }
+  
+  .navSignupButton{
+    padding: 8px 20px;
+      max-height: 40px;
+      background: rgb(15, 164, 87);
+      border-radius: 8px;
+      border: 0px;
+      font-weight: 600;
+      font-size: 14px;
+      line-height: 20px;
+      text-align: center;
+      color: rgb(255, 255, 255);
+      margin: 0px 16px 0px 0px;
+      cursor: pointer;
+  }
+  
+  .navLoginButton{
+    padding: 8px 20px;
+    max-height: 40px;
+    background: transparent;
+    border-radius: 8px;
+    border: 1px solid rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-transform: capitalize;
+    margin-right: 24px;
+    cursor: pointer;
+  }
+  
+  .navHelpLink{
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    cursor: pointer;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    z-index: 2;
+  }
+  
+  
+  /* -----------dropdown */
+  
+  .maindropd:hover .Dropdown-Menu{
+    background: rgb(255, 255, 255);
+    width: 100%;
+    padding: 30px;
+    box-sizing: border-box;
+    margin-top: 10%;
+    position: absolute;
+    z-index: 3;
+    top: -2px;
+    padding: 8px 0px;
+    display: block;
+    animation: 0.2s ease-in 0s 1 all ease-out;
+  
+  }
+  
+  .dropdownCase{
+    width: 100%;
+    display: flex;
+    max-width: 1170px;
+    justify-content: center;
+    margin: 0px auto;
+  }
+  
+  
+  
+  .car_taxi_drop, .bike_drop, .health_drop{
+   
+    display: block;
+   justify-content: center;
+   margin-right: 4rem;
+   align-items: center;
+  }
+  
+  .car_taxi_drop{
+    display: block;
+   justify-content: center;
+   margin-right: 2rem;
+  }
+  
+  
+  
+  
+  .resources_drop{
+    display: block;
+   justify-content: center;
+   margin-right: 2rem;
+   text-align: center;
+  
+  } 
+  
+  
+  
+  

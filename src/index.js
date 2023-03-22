@@ -9,15 +9,10 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  //   <Auth0Provider
-  //   domain="dev-yhx3x8xohis57yar.us.auth0.com"
-  //   clientId="VgZI9F0krKNHM6BBEKQBOqxqpkSVzGrp"
-  //   authorizationParams={{
-  //     redirect_uri: window.location.origin
-  //   }}
-  // >
+    
+  
     <App />
-    // </Auth0Provider>
+  
 );
 
 // If you want to start measuring performance in your app, pass a function
